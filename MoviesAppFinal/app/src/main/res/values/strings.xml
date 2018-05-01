@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MoviesAppStage2</string>
+    <string name="action_settings">Settings</string>
+    <string name="original_title">Movie Title</string>
+    <string name="details">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="rating">User Rating</string>
+    <string name="released">Release Date</string>
+    <string name="reviews_id">Reviews</string>
+    <string name="trailer">Trailer</string>
+    <string name="order_by_label">Sort Order</string>
+    <string name="order_by_key">sortOrder</string>
+    <string name="sort_most_popular">Most Popular</string>
+    <string name="sort_top_rated">Top Rated</string>
+    <string name="sort_favorites" translatable="false">Favorite Movies</string>
+    <string name="sort_upcoming">Coming Soon</string>
+    <string name="sort_now_playing">Now Playing</string>
+
+    <string name="order_blindness_label">Color Settings</string>
+    <string name="order_blindness_key">sortOrder</string>
+    <string name="sort_red_green_blind">Deuteranopia</string>
+    <string name="sort_red_green_lights">Protanopia</string>
+    <string name="sort_blue_yellow_blind">Tritanopia</string>
+
+    <string name="favorites_added">Movie added to Favorites!</string>
+    <string name="favorites_failed">Failed to add movie to Favorites</string>
+</resources>
